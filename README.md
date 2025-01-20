@@ -28,4 +28,4 @@ For further details or additional data related to this research, don't hesitate 
 Alegre, V. B., Kanda, C. Z., de Faria Oshima, J. E., Niebuhr, B. B., Morato, R. G., Thompson, J. J., ... & Ribeiro, M. C. (2024). Jaguar at the Edge: movement patterns in human-altered landscapes. Perspectives in Ecology and Conservation, 22(4), 358-366.[https://www.sciencedirect.com/science/article/pii/S2530064424000506]
 
 **Repository DOI**
-
+10.5281/zenodo.14707982
